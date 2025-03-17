@@ -1,7 +1,7 @@
 <h1 align="center">🦊 TToulet 🦊</h1>
 <h3 align="center">Bienvenue sur mon GitHub</h3>
 <div align="center">
-  <img src="https://i.imgur.com/9d9Lers.png" width="600">
+  <img src="https://i.imgur.com/RHq5Sme.png" width="600">
 </div>
 
 <div align="center" style="color: orange;">
@@ -19,3 +19,7 @@ Un conseil d'amis, Internet posséde tout ( pour toujours ) a méditer...
 
 ### Mes statistiques
 ![Github Views](https://views.igorkowalczyk.dev/api/badge/TToulet?color=orange&)
+<br>
+
+### Mes compétences
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,js,css,git,java,mysql,php,nodejs&theme=dark)](go-skill-icons.vercel.app)
