@@ -9,7 +9,7 @@
 </div>
 
 ### À propos de moi
-Je suis TToulet passioné par l'informatique ainsi que la cybersécurité depuis toujours <br>
+Je suis TToulet ( Tommy TOULET ) passioné par l'informatique ainsi que la cybersécurité depuis toujours <br>
 Un conseil d'amis, Internet posséde tout ( pour toujours ) a méditer...
 
 ### Mes Informations
