@@ -1,5 +1,6 @@
 <h1 align="center">🦊 TToulet 🦊</h1>
 <h3 align="center">Bienvenue sur mon GitHub</h3>
+
 <div align="center">
   <img src="https://i.imgur.com/RHq5Sme.png" width="600">
 </div>
@@ -8,18 +9,37 @@
   ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 </div>
 
+---
+
 ### À propos de moi
-Je suis TToulet ( Tommy TOULET ) passioné par l'informatique ainsi que la cybersécurité depuis toujours <br>
-Un conseil d'amis, Internet posséde tout ( pour toujours ) a méditer...
+Je suis **TToulet (Tommy TOULET)**, passionné par l’informatique et la cybersécurité depuis toujours 🔐  
+J’aime comprendre comment fonctionnent les systèmes, les sécuriser… et parfois les contourner 😏  
 
-### Mes Informations
-- 🔶 **Étudiant en BTS SIO (Option SLAM)**
-- 🔶 **20 ans**
-- 🔶 **Ile-De-France**
+> ⚠️ *Un conseil d’ami : Internet n’oublie jamais. Réfléchis avant d’agir.*
 
-### Mes statistiques
-![Github Views](https://views.igorkowalczyk.dev/api/badge/TToulet?color=orange&)
-<br>
+---
+
+### 📌 Mes informations
+- 🔶 21 ans
+- 🔶 Île-de-France
+- 🔶 Intéressé par : **Cybersecurity / Dev / Automation**
+
+---
 
 ### Mes compétences
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,js,css,java,mysql,php,nodejs&theme=dark)](go-skill-icons.vercel.app)
+<div align="center">
+
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=phpstorm,pycharm,bash,linux,git&theme=dark)](https://go-skill-icons.vercel.app)
+
+</div>
+
+---
+
+### Fun fact
+> 💡 "Le meilleur hack, c’est la connaissance."
+
+<div align="center">
+
+🔥 Merci de visiter mon profil 🔥  
+
+</div>
