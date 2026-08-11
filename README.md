@@ -12,7 +12,7 @@
 ---
 
 ### À propos de moi
-Je suis **TToulet (Tommy TOULET)**, passionné par l’informatique et la cybersécurité depuis toujours 🔐  
+Je suis **TToulet**, passionné par l’informatique et la cybersécurité depuis toujours 🔐  
 J’aime comprendre comment fonctionnent les systèmes, les sécuriser… et parfois les contourner 😏  
 
 > ⚠️ *Un conseil d’ami : Internet n’oublie jamais. Réfléchis avant d’agir.*
